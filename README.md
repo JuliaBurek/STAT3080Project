@@ -1,1 +1,7 @@
 # STAT3080Project
+
+For my final project in STAT 3080: From Data to Knowledge, I explored the Titanic dataset. The dataset contains information on the survival status, sex, age, and passenger class of 1,309 passengers in the Titanic disaster of 1912. In total, there were 2,240 passengers on the Titanic and more than 1,500 died. The Titanic sinking is a very historic, disastrous event. I wanted to explore what factors played a role in a passenger’s likelihood of survival.
+
+Project Part 1: For my numerical representation, I wanted to explore the different variables and what impact they would have on a passenger’s survival percentage. I created a matrix that contains the percentage of passengers who survived based on whether the individual was Female, Male, 1st Class, 2nd Class, or 3rd Class. I wanted to see what percentage rates for these variables would be higher than the others. For my visual representation, I wanted to show the different counts of passengers that survived and did not survive between the different passenger classes. I also separated the graphs by sex. 
+
+Final Project: I wanted to explore this idea of survival rates through a statistical test. My question was: Did children have a greater rate of survival than adults on the Titanic? I wanted to compare the proportion of children (below 18) who survived to the proportion of adults (18 and older) who survived. I wanted to see if the proportion of children who survived is higher than the proportion of adults who survived. In order to do this, I performed a Two-Proportion Z-test.
